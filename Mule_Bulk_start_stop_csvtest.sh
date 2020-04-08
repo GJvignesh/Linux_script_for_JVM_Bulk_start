@@ -18,3 +18,7 @@ do
 done
 
 
+
+# USAGE: sudo ./Mule_Bulk_start_stop_csvtest.sh <life_cycle> <action>
+# EXAMPLE: sudo ./Mule_Bulk_start_stop_csvtest.sh dev status
+
